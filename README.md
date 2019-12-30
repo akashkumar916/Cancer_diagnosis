@@ -45,9 +45,9 @@ Data Link: **https://www.kaggle.com/c/msk-redefining-cancer-treatment/data**<br/
 
 <h2>Performance matric</h2>
 
-Metric(s): 
-* Multi class log-loss 
-* Confusion matrix 
+Metric(s): <br/>
+**Multi class log-loss**
+**Confusion matrix**
 
 
 
