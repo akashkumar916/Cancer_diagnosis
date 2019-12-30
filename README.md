@@ -9,7 +9,7 @@ We understand that analyzing text represents a difficult challenge, but believe 
 The workflow is as follows
 
 1. A molecular pathologist selects a list of genetic variations of interest that he/she want to analyze<br/>
-2.The molecular pathologist searches for evidence in the medical literature that somehow are relevant to the genetic variations of interest<br/>
+2. The molecular pathologist searches for evidence in the medical literature that somehow are relevant to the genetic variations of interest<br/>
 3. Finally this molecular pathologist spends a huge amount of time analyzing the evidence related to each of the variations to classify them
 
 <br/>
