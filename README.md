@@ -1,7 +1,7 @@
 # Cancer_diagnosis
 Machine learning model to help  molecular pathologist to classify the variations (9 classes)</br></br>
 **@author:Akash Kumar**</br>
-**linkedin:-https://www.linkedin.com/in/akash-kumar-9b87b5148/**</br></br>
+**linkedin:-https://www.linkedin.com/in/akash-kumar916/**</br></br>
 
 
 We understand that analyzing text represents a difficult challenge, but believe it or not is the current state of the art when it comes to interpretation of genetic variants.
